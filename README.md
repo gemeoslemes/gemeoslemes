@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @gemeoslemes
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-gemeoslemes/gemeoslemes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Curso Análise Desenvolvimento de Sistema na FAEX-MG, dedico meu tempo para estudar programação na plataforma do Alura.
+Possuo foco em desenvolvimento em Java, CSS, Html, Python, JavaScript, SQLServer e MySQL.
+Me considero ágil em aprender novas linguagens e me adaptar bem com mudanças, pronto para desafios.
+Se pudesse me definir certamente seriam: otimista, esforçado e produtivo
