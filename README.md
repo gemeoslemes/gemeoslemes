@@ -1,31 +1,32 @@
 
 ## Resumo profissional:
-  Desenvolvedor Back End com experiência em Java, Python e habilidades sólidas em lógica de programação, banco de dados MySQL e SQL Server e Clound AWS. Excelente habilidade de comunicação e trabalho em equipe. Buscando uma posição desafiadora em uma empresa dinâmica.<br>
+  Sou um desenvolvedor experiente em Java e Spring Boot, com um foco específico no desenvolvimento de APIs robustas. Ao longo da minha carreira, tenho sido responsável por integrar operações CRUD e implementar testes utilitários para garantir a qualidade do código. Possuo proficiência em configuração e gestão de infraestrutura na AWS, utilizando o AWS CDK para provisionar serviços essenciais, como integração de banco de dados. Tenho experiência em documentar aplicações com Swagger e em implantar na nuvem com Infraestrutura como Código (IaC). Além disso, sou especialista na utilização do Docker Hub e RDS. Trabalhei dentro da metodologia Scrum, contribuindo para a resolução ágil de bugs e proporcionando uma experiência positiva aos clientes.<br><br><br>
+  ### Olá! Eu sou o Victor Lemes😀
+  💻 Engenheiro de software.
+  #### Tecnologias que utilizo
 
-### Olá! Eu sou o Victor Lemes😀
-- 💻 Desenvolvedor back-end.
-- 🐍 Python.
-- ☕ Java.
-- ☁️ AWS Cloud
-- 🐬 MySQL
+  🐳 Docker     |
+  🐘 Kafka      | 🐰 RabbitMQ    
 
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Victor-Java" height="40" width="40" src="https://user-images.githubusercontent.com/115731879/225053668-91d78fb6-80a6-4b20-80a3-832a0e5a77af.png">
-  <img align="center" alt="Victor-Spring" height="40" width="40" src="https://user-images.githubusercontent.com/115731879/225051611-a103938e-dc85-49cf-ad7e-215d2842f843.png">
-  <img align="center" alt="Victor-AWS" height="40" width="50" src="https://user-images.githubusercontent.com/115731879/225056291-a25d0d5f-3936-4c5b-aeb7-67bad34973e6.png">
-  <img align="center" alt="Victor-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Victor-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Victor-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Victor-mysql" height="40" width="50" src="https://user-images.githubusercontent.com/115731879/225057686-0213b1be-ce25-4f8b-9a8a-6a10fbdc1ebd.png">
-  <br>
+<div style= "displau: inline_block"><br/>
+  <img align: "center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> 
+  <img align: "center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img aling: "center" alt= "Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img aling: "center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img aling: "center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img aling: "center" alt ="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
 </div>
+
+ <br><br><br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gemeoslemes&show_icons=true&theme=radical)
+
+
  
   ## Contato:
  
 <div>
 <br>
   <a href="https://www.linkedin.com/in/victor-lemes-6a064a23a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/victorlemes_08/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:victorlemes0776@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://gemeoslemes.github.io/Meu-Portf-lio/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href = "mailto:victorlemes0776@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
