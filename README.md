@@ -18,7 +18,7 @@ Possuo experiência prática em ambientes **AWS**, utilizando serviços como EC2
 ## Habilidades Técnicas
 
 ### Linguagens e Frameworks
-- Java (Spring Boot, Spring Data JPA, Spring Security)
+- Java (Spring Boot, Spring Data JPA, Hibernate, Spring Security)
 - Python (Pandas, NumPy, Xarray, SQLAlchemy)
 - C# (.NET Core 8 e 9, Web API)
 - JavaScript / TypeScript (Node.js, React, Angular)
@@ -30,8 +30,9 @@ Possuo experiência prática em ambientes **AWS**, utilizando serviços como EC2
 - Redis (cache)
 
 ### DevOps & Cloud
-- AWS (EC2, S3, RDS, Lambda, SQS, API Gateway, ECS, EKS)
-- AWS CDK (TypeScript)
+- AWS: EC2, S3, RDS, Lambda, SQS, API Gateway, ECS, EKS  
+  CloudWatch, IAM, Secrets Manager, DynamoDB, CloudFormation
+- AWS CDK (Java)
 - Docker / Docker Hub
 - GitHub Actions (CI/CD)
 - Swagger / OpenAPI
@@ -42,7 +43,7 @@ Possuo experiência prática em ambientes **AWS**, utilizando serviços como EC2
 - AWS SQS
 - APIs RESTful e SOAP
 - Integração com Webhooks
-
+  
 ---
 
 ## Projetos em Destaque
