@@ -66,9 +66,9 @@ Possuo experiência prática em ambientes **AWS**, utilizando serviços como EC2
 ## Experiência Profissional
 
 ### ITFACIL (Julho/2024 – Atual)  
-**Desenvolvedor Backend (Python e Java)**
-- Desenvolvimento de APIs REST em FastAPI e Spring Boot
-- Integração com PostgreSQL e SQL Server
+**Desenvolvedor Backend (Python e R)**
+- Desenvolvimento de APIs REST em FastAPI
+- Integração com PostgreSQL
 - Automação de ingestão de dados meteorológicos
 - Participação em sprints com metodologia ágil (Scrum/Kanban)
 
