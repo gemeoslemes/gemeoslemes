@@ -11,7 +11,7 @@ Sou um engenheiro de software com sólida experiência no desenvolvimento backen
 
 Tenho forte domínio em padrões arquiteturais como **DDD (Domain-Driven Design)**, **Clean Architecture** e princípios **SOLID**, aplicando boas práticas de engenharia de software desde o design da solução até sua entrega em produção.
 
-Possuo experiência prática em ambientes **AWS**, utilizando serviços como EC2, S3, RDS, ECS, Lambda e CDK (com TypeScript) para provisionamento via **Infraestrutura como Código (IaC)**. Trabalho com **Docker**, versionamento com Git, pipelines de CI/CD via **GitHub Actions**, e adoção de metodologias ágeis como **Scrum** e **Kanban**.
+Possuo experiência prática em ambientes **AWS**, utilizando serviços como EC2, S3, RDS, ECS, Lambda e CDK (com Java) para provisionamento via **Infraestrutura como Código (IaC)**. Trabalho com **Docker**, versionamento com Git, pipelines de CI/CD via **GitHub Actions**, e adoção de metodologias ágeis como **Scrum** e **Kanban**.
 
 ---
 
